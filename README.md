@@ -1,6 +1,6 @@
 # ABAS Token Whitepaper
 ABAS Token Whitepaper
-ABAS Token is the first 100% decentralized, 100% community owned, 100% trustless, 100% fair, 100% ownerless token that uses Proof-of-Work to distribute Tokens, Rewards, and run our Auctions
+ABAS Token is the first 100% decentralized, 100% community owned, 100% trustless, 100% fair, 100% ownerless token that uses Proof-of-Work to distribute Tokens, Rewards, and run its Auctions
 
 17% of the ABAS Token Supply is distributed by the Auctions contract.
 The speed which blocks are mined by Proof-of-Work miners will determine the auction length, fast miners = short auctions. Averages to 72 hour auctions. Each auction will sell 32,768 ABAS Tokens split to all bidders evenly depending on how much Ethereum they bid for the auction. Your ETH Deposited into Auction / Total ETH for Auction * 32,768 = Your ABAS Tokens you will Recieve.
