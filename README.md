@@ -14,7 +14,7 @@ Miners make daily Ethereum profits along with their ABAS Tokens daily, helping e
 Ensuring the token is always mined!
 
 Along with the ABAS Tokens and the Ethereum Tokens, miners will have the ability to mine up to 65 other Cryptocurrencies! Any ERC20 sent to the Forge Contract will become instantly mineable! With most of the supply being distributed over 1 year. This allows any token to become mineable, without having to run their own proof-of-work system.
-Our system allows for basically any token to be mined, since miners pay nothing! We expect to see Fractionalized NFTs avaialble for mining
+Our system allows for basically any token to be mined, since miners pay nothing! We even allow for NFT mining!
 
 33% of the Ethereum raised from the Auctions contract goes directly to Miners via Proof-of-Work. 66% of the ETH raised from the Auctions contract goes back to Liquidiy Providers via the Staking Contract!
 
